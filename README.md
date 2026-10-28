@@ -1,6 +1,6 @@
 # mi-szotar-adat
 
-MI szótár – a https://bogyopeter.hu/miszotar oldal adatforrása.
+MI szótár – a https://bogyopeter.hu/mi-szotar oldal adatforrása.
 
 ## Jogi nyilatkozat
 
@@ -13,6 +13,9 @@ elérhetősége nem jelent felhasználási engedélyt. A tartalom másolása,
 tanítására vagy egyéb gépi feldolgozására való felhasználása kizárólag
 előzetes írásos engedéllyel lehetséges. A szöveg- és adatbányászat jogát a
 jogosult kifejezetten fenntartja (Szjt. 35/A. §, DSM-irányelv 4. cikk).
+
+Egy-egy fogalomra a weboldal „Link másolása” gombjával szabadon hivatkozni
+lehet.
 
 Részletek: [LICENSE](LICENSE)
 
