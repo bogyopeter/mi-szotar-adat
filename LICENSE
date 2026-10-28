@@ -1,0 +1,38 @@
+Copyright (c) 2026 Bogyó Péter. Minden jog fenntartva.
+
+A jelen tárhelyen található MI szótár (különösen a szotar.json fájl) tartalma –
+a fogalmak válogatása, elrendezése, a magyar megfeleltetések, a definíciók és a
+magyarázó szövegek – Bogyó Péter szellemi tulajdona. A tartalom szerzői jogi
+védelem alatt áll a szerzői jogról szóló 1999. évi LXXVI. törvény (Szjt.) alapján,
+az adatbázis egésze pedig az Szjt. 84/A. §-a szerinti adatbázis-védelem alatt is.
+
+A tárhely nyilvános elérhetősége NEM jelent felhasználási engedélyt.
+
+Kizárólag előzetes írásos engedéllyel szabad:
+  - a tartalmat részben vagy egészben másolni, letölteni, tárolni, újraközölni
+    vagy terjeszteni;
+  - a tartalomból származékos művet (más szótárt, adatbázist, kiadványt,
+    weboldalt, alkalmazást) készíteni;
+  - a tartalmat mesterséges intelligencia vagy gépi tanulási rendszer
+    tanítására, finomhangolására, értékelésére vagy visszakeresésen alapuló
+    (RAG) felhasználására használni;
+  - a tartalmat automatizált eszközzel (scraper, crawler, bot) gyűjteni.
+    A szöveg- és adatbányászat lehetőségét a jogosult az Szjt. 35/A. §
+    (DSM-irányelv 4. cikk) alapján kifejezetten kizárja.
+
+Egy-egy fogalomra a weboldal „Link másolása” gombjával szabadon hivatkozni lehet.
+
+A szótár a https://bogyopeter.hu/mi-szotar oldalon olvasható.
+Engedélykérés: https://bogyopeter.hu
+
+---
+
+Copyright (c) 2026 Péter Bogyó. All rights reserved.
+
+The contents of this repository (in particular szotar.json) are protected by
+copyright and database rights. Public visibility of this repository does NOT
+grant any licence. Copying, redistribution, creating derivative works,
+automated collection (scraping) and use for training, fine-tuning, evaluating
+or retrieval-augmenting AI / machine-learning systems are prohibited without
+prior written permission. Text and data mining is expressly reserved under
+Article 4(3) of Directive (EU) 2019/790.
